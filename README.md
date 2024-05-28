@@ -1,4 +1,4 @@
-## Customer Segmentation/ Data Analytics 
+## Customer Segmentation/ Data Analytics [https://rushikeshpatil23.github.io/Customer-Segmentation-Data-analytics/]
 
 ## Goal of the project
 
