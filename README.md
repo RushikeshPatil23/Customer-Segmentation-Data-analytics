@@ -52,3 +52,5 @@ Most New customers are aged between 40-49 also Old Customers the most of them ar
 The lowest number for both types of customers is in the age bracket under 20 and above 80.
 The automobile company is popular among New Customers aged 20-29 and 40-49.
 A steep drop in customers is observed in the 30-39 age group among the New Customers
+
+![Screenshot 2024-05-29 120826]
