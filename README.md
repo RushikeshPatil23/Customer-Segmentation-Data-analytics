@@ -53,4 +53,4 @@ The lowest number for both types of customers is in the age bracket under 20 and
 The automobile company is popular among New Customers aged 20-29 and 40-49.
 A steep drop in customers is observed in the 30-39 age group among the New Customers
 
-![Screenshot 2024-05-29 120826]
+![Screenshot 2024-05-29 120856](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/8677dfb9-e31c-45bb-af7e-dc05988c6457)
