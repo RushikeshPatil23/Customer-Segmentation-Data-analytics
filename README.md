@@ -9,6 +9,6 @@ The purpose of this project is to conduct a Customer Segmentation Analysis for a
 
 ### Jupyter Notebook
 [CustomerAddresss_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/CustomerAddress_Cleaned.csv)
-[CustomerDemograpic.cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/CustomerDemographic_Cleaned.csv)
-[Newcustomers_list]
-[Transaction]
+[CustomerDemograpic_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/CustomerDemographic_Cleaned.csv)
+[Newcustomerslist_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/NewCustomerList_Cleaned.csv)
+[Transaction_cleaned.csv]
