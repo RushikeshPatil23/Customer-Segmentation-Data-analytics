@@ -62,24 +62,6 @@ The Female purchases are 10,000 more than that of Male purchases (numerically).
 
 ![Screenshot 2024-05-29 132857](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/1328bfd0-a225-4c5e-b912-904ea62a40a2)
 
-- New vs Old Customers Job Industry Distribution
-
-Most New customers are from the Manufacturing and Financial Services sector (approx 20% of the New Customers).
-The lowest number of customers are from the Agriculture and Telecom sector approx 3%.
-Similar trend is observed among Old Customers as well.
-
- <table>
-  <tr>
-    <td><b>Old Customers by Job Industry</b></td>
-    <td><b>New Customers by Job Industry</b></td>
-  </tr>
-  <tr>
-   src="https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/5f09e36b-8d41-45c9-86e5-f7757ba144a9" width="200" height="200"
-   src="https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/9ee008dd-ee2e-4110-90cd-262bc994bc56" width="200" height="200"
-   
-  </tr>
-  </table>
-
 - Wealth Segmentation by Age Category
 
 Across all age categories the largest number of customers are from 'Mass Customer' Segment
