@@ -55,9 +55,9 @@ A steep drop in customers is observed in the 30-39 age group among the New Custo
 
 (![Screenshot 2024-05-29 132323](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/684fdc75-290e-4fb8-9741-522b21f5986a)![Screenshot 2024-05-29 132307](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/209b83d4-a8cc-433d-8c0b-f6cec3605ba5)
 
-- Bike purchases over last 3 years by Gender
+- Bike purchases over the last 3 years by Gender
 
-Most bike puechases are done by Feamale over the last 3 years. Approximately 51% of the bike purchases are done by Female compared to 49% of the purchases being done by Male.
+Females made most bike purchases over the last 3 years. Approximately 51% of the bike purchases are done by Females compared to 49% of the purchases being done by Male.
 The Female purchases are 10,000 more than that of Male purchases (numerically).
 
-
+![Screenshot 2024-05-29 132857](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/1328bfd0-a225-4c5e-b912-904ea62a40a2)
