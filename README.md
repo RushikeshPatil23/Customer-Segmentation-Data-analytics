@@ -75,6 +75,7 @@ In the age group 40-49, Affluent segment out performs the High Net Worth custome
 New South Wales has the largest number of people who donot own a car.
 In Victoria the proportion is quite even.
 In Queensland the number of people owning a car is greater than who donot have a car.
+![Screenshot 2024-05-29 150531](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/d5413c82-3707-4482-92d2-2d9bd9ebe5e6)
 
 ### 3. RFM Analysis and Customer Segmentation
 In this stage of analysis the customer segmentation was done by developing an RFM Model. The RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions.
