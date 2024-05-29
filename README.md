@@ -5,7 +5,7 @@
 The purpose of this project is to conduct a Customer Segmentation Analysis for an Automobile bike Company. Customer segmentation is performed by developing an RFM Model. RFM (Recency, Frequency, Monetary) analysis is a behaviour-based approach grouping customers into segments. It groups the customers based on their previous purchase transactions. In this analysis, the customer segment was divided into 11 groups. The analysis will help in determining which customer segments should be targeted to enhance sales revenue for the company. A Sales Dashboard for Customer Segmentation is developed using Tableau and the data quality assessment and analysis are done using Python.
 
 ### Tableau Dashboard
-![Screenshot 2024-05-28 183313](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/30da9d7b-0084-46ce-bfe6-860b8833839c)
+![Animation](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/0c63c901-8fbe-457e-b71b-6face2a60404)
 
 ### Jupyter Notebooks
  - [CustomerAddresss_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/CustomerAddress_Cleaned.csv)
