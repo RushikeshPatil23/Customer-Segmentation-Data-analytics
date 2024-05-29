@@ -74,8 +74,9 @@ Similar trend is observed among Old Customers as well.
     <td><b>New Customers by Job Industry</b></td>
   </tr>
   <tr>
-    <td><img src="data%20visualization/Old%20Customers%20Job%20Industry.PNG" height="400" align="middle"></td>
-    <td><img src="data%20visualization/New%20Customers%20Job%20Industry.PNG" height="400" align="middle"></td>
+   ＜img src=![Screenshot 2024-05-29 135735](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/5f09e36b-8d41-45c9-86e5-f7757ba144a9) width="500" height="300"＞
+    ＜img src=![Screenshot 2024-05-29 135808](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/9ee008dd-ee2e-4110-90cd-262bc994bc56) width="500" height="300"＞
+   
   </tr>
   </table>
 
