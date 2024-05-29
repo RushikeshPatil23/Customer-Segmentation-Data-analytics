@@ -53,5 +53,11 @@ The lowest number for both types of customers is in the age bracket under 20 and
 The automobile company is popular among New Customers aged 20-29 and 40-49.
 A steep drop in customers is observed in the 30-39 age group among the New Customers
 
-![alt-text-1](![Screenshot 2024-05-29 132323](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/684fdc75-290e-4fb8-9741-522b21f5986a) ![alt-text-2]((![Screenshot 2024-05-29 120856]()
+(![Screenshot 2024-05-29 132323](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/684fdc75-290e-4fb8-9741-522b21f5986a)![Screenshot 2024-05-29 132307](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/209b83d4-a8cc-433d-8c0b-f6cec3605ba5)
+
+- Bike purchases over last 3 years by Gender
+
+Most bike puechases are done by Feamale over the last 3 years. Approximately 51% of the bike purchases are done by Female compared to 49% of the purchases being done by Male.
+The Female purchases are 10,000 more than that of Male purchases (numerically).
+
 
