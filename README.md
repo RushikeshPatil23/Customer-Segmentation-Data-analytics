@@ -7,8 +7,9 @@ The purpose of this project is to conduct a Customer Segmentation Analysis for a
 ### Tableau Dashboard
 ![Screenshot 2024-05-28 183313](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/30da9d7b-0084-46ce-bfe6-860b8833839c)
 
-### Jupyter Notebook
-[CustomerAddresss_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/CustomerAddress_Cleaned.csv)
-[CustomerDemograpic_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/CustomerDemographic_Cleaned.csv)
-[Newcustomerslist_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/NewCustomerList_Cleaned.csv)
-[Transaction_cleaned.csv](
+### Jupyter Notebookw
+ - [CustomerAddresss_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/CustomerAddress_Cleaned.csv)
+ - [CustomerDemograpic_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/CustomerDemographic_Cleaned.csv)
+ - [Newcustomerslist_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/NewCustomerList_Cleaned.csv)
+ - [Transaction_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/Transactions_Cleaned.csv)
+ - [RFMAnalysis](
