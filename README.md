@@ -53,7 +53,7 @@ The lowest number for both types of customers is in the age bracket under 20 and
 The automobile company is popular among New Customers aged 20-29 and 40-49.
 A steep drop in customers is observed in the 30-39 age group among the New Customers
 
-(![Screenshot 2024-05-29 132323](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/684fdc75-290e-4fb8-9741-522b21f5986a)![Screenshot 2024-05-29 132307](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/209b83d4-a8cc-433d-8c0b-f6cec3605ba5)
+![Screenshot 2024-05-29 132323](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/684fdc75-290e-4fb8-9741-522b21f5986a)![Screenshot 2024-05-29 132307](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/209b83d4-a8cc-433d-8c0b-f6cec3605ba5)
 
 - Bike purchases over the last 3 years by Gender
 
@@ -74,8 +74,8 @@ Similar trend is observed among Old Customers as well.
     <td><b>New Customers by Job Industry</b></td>
   </tr>
   <tr>
-   ＜img src=![Screenshot 2024-05-29 135735](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/5f09e36b-8d41-45c9-86e5-f7757ba144a9) width="500" height="300"＞
-    ＜img src=![Screenshot 2024-05-29 135808](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/9ee008dd-ee2e-4110-90cd-262bc994bc56) width="500" height="300"＞
+   src="https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/5f09e36b-8d41-45c9-86e5-f7757ba144a9" width="200" height="200"
+   src="https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/9ee008dd-ee2e-4110-90cd-262bc994bc56" width="200" height="200"
    
   </tr>
   </table>
