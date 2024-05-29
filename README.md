@@ -9,7 +9,7 @@ The purpose of this project is to conduct a Customer Segmentation Analysis for a
 
 ### Jupyter Notebooks
  - [CustomerAddresss_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/CustomerAddress_Cleaned.csv)
- - [CustomerDemograpic_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/CustomerDemographic_Cleaned.csv)
+ - [CustomerDemograpic_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/Customer%20Demographic.ipynb)
  - [Newcustomerslist_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/NewCustomerList_Cleaned.csv)
  - [Transaction_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/Transactions.ipynb)
  - [RFMAnalysis](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/RFM_Analysis.ipynb)
