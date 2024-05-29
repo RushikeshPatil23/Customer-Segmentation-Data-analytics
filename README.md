@@ -92,6 +92,7 @@ High Risk Customers
 Evasive Customers
 Becoming Loyal
 Almost lost Customers
+![Screenshot 2024-05-29 150531](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/d5413c82-3707-4482-92d2-2d9bd9ebe5e6)
 
 - Scatter Plots
 - Recency vs Monetary :
