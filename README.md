@@ -67,6 +67,7 @@ The Female purchases are 10,000 more than that of Male purchases (numerically).
 Across all age categories the largest number of customers are from 'Mass Customer' Segment
 The next category comes from the 'High Net Worth' customers.
 In the age group 40-49, Affluent segment out performs the High Net Worth customers in terms of number of customers.
+
 ![Screenshot 2024-05-29 145817](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/f9c0a19f-0eeb-4a12-99d5-92790a74c206)
 ![Screenshot 2024-05-29 145836](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/b8f7d0ff-1bb5-4dfa-913d-de8acb17eb48)
 
@@ -75,7 +76,8 @@ In the age group 40-49, Affluent segment out performs the High Net Worth custome
 New South Wales has the largest number of people who donot own a car.
 In Victoria the proportion is quite even.
 In Queensland the number of people owning a car is greater than who donot have a car.
-![Screenshot 2024-05-29 150531](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/d5413c82-3707-4482-92d2-2d9bd9ebe5e6)
+
+![Screenshot 2024-05-29 150114](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/81bc0ce4-6f1e-4cae-ba36-a2e52bb68e85)
 
 ### 3. RFM Analysis and Customer Segmentation
 In this stage of analysis the customer segmentation was done by developing an RFM Model. The RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions.
@@ -99,8 +101,12 @@ Almost lost Customers
 - Recency vs Monetary :
 The visualization shows that recent customers have purchased more products and generated relatively more revenue than the customers who visited a while ageo.
 
+![Screenshot 2024-05-29 150912](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/411aac23-a611-4e9b-8e6f-e41767df7ca7)
+
 - Frequency vs Monetary :
 The visualization shows that customers belonging to Platinum/ Very Loyal/ Becoming Loyal Customer Segments have a greater frequency and generate greater monetary for the business
+
+![Screenshot 2024-05-29 150937](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/12fc84c1-a59d-4f3c-b857-bb5ed3b44e84)
 
 ### Datasets Used
 - The datasets used include:
