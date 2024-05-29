@@ -67,6 +67,8 @@ The Female purchases are 10,000 more than that of Male purchases (numerically).
 Across all age categories the largest number of customers are from 'Mass Customer' Segment
 The next category comes from the 'High Net Worth' customers.
 In the age group 40-49, Affluent segment out performs the High Net Worth customers in terms of number of customers.
+![Screenshot 2024-05-29 145817](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/f9c0a19f-0eeb-4a12-99d5-92790a74c206)
+![Screenshot 2024-05-29 145836](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/b8f7d0ff-1bb5-4dfa-913d-de8acb17eb48)
 
 - Cars owned by States
 
