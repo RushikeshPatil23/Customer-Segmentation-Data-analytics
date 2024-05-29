@@ -8,11 +8,11 @@ The purpose of this project is to conduct a Customer Segmentation Analysis for a
 ![Animation](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/assets/169757781/0c63c901-8fbe-457e-b71b-6face2a60404)
 
 ### Jupyter Notebooks
- - [CustomerAddresss_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/Customer%20Address.ipynb)
- - [CustomerDemograpic_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/Customer%20Demographic.ipynb)
- - [Newcustomerslist_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/NewCustomerList_Cleaned.csv)
- - [Transaction_cleaned.csv](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/Transactions.ipynb)
- - [RFMAnalysis](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/RFM_Analysis.ipynb)
+ - [CustomerAddresss_cleaned.ipynb](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/Customer%20Address.ipynb)
+ - [CustomerDemograpic_cleaned.ipynb](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/Customer%20Demographic.ipynb)
+ - [Newcustomerslist_cleaned.ipynb](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/Newcustomerlist.ipynb)
+ - [Transaction_cleaned.ipynb](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/Transactions.ipynb)
+ - [RFMAnalysis.ipynb](https://github.com/RushikeshPatil23/Customer-Segmentation-Data-analytics/blob/main/RFM_Analysis.ipynb)
 
  - Analysis Approach
 ### 1. Data Quality Assessment and Data Cleaning
